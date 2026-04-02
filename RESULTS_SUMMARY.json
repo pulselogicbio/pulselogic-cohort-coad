@@ -1,0 +1,19 @@
+﻿{
+    "ci":  [
+               0.777,
+               0.868
+           ],
+    "disease":  "Colon Cancer",
+    "patent":  "US 63/942,422",
+    "tier":  "GOLD",
+    "sensitivity":  0.82,
+    "pipeline":  "BPF v1.0.0",
+    "patients":  514,
+    "event_rate":  0.22,
+    "cohort":  "TCGA Colon Cancer (COAD)",
+    "phase":  "Phase 1",
+    "events":  115,
+    "specificity":  0.81,
+    "seed":  42,
+    "auc":  0.8233
+}
